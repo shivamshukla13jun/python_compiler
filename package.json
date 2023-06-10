@@ -1,0 +1,14 @@
+{
+  "name": "node-js-upload-download-excel-files",
+  "version": "1.0.0",
+  "description": "Node.js Upload/Import Excel files to MySQL Database and download Excel File",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js "
+  },
+  "dependencies": {
+    "socket.io": "^4.5.3",
+    "uuidv4": "^6.2.13"
+  }
+}

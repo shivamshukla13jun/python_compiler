@@ -1,0 +1,6 @@
+n=input("enter")
+print(n)
+n=input("enter 2")
+print(n)
+n=input("enter 3")
+print(n)
